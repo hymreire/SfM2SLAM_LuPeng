@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Lec2.摄像机标定/Lec2.摄像机标定.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "a83bb47deeca6b8a",
@@ -170,6 +171,12 @@
   },
   "active": "65e4bc4c1037087b",
   "lastOpenFiles": [
+    "Lec2.摄像机标定/2.摄像机标定.pdf",
+    "Lec2.摄像机标定/Lec2.摄像机标定.md",
+    "test.md",
+    "attachments/Pasted image 20251025184541.png",
+    "attachments",
+    "attachments/Pasted image 20251025184430.png",
     "Lec2.摄像机标定/attachments/Pasted image 20251025182351.png",
     "Lec2.摄像机标定/attachments/Pasted image 20251025182342.png",
     "Lec2.摄像机标定/attachments/Pasted image 20251025182314.png",
@@ -178,18 +185,13 @@
     "Lec2.摄像机标定/attachments/Pasted image 20251025182003.png",
     "Lec2.摄像机标定/attachments/Pasted image 20251025181928.png",
     "Lec2.摄像机标定/attachments/Pasted image 20251025173227.png",
-    "Lec2.摄像机标定/attachments/Pasted image 20251025173133.png",
-    "Lec2.摄像机标定/attachments/Pasted image 20251025172811.png",
-    "Lec2.摄像机标定/attachments/Pasted image 20251025172711.png",
     "8.SLAM系统设计.pdf",
-    "Lec2.摄像机标定/Lec2.摄像机标定.md",
     "屏幕截图 2025-10-25 172431.md",
     "Imageljksf",
     "5.双目立体视觉.pdf",
     "7.SFM系统设计-change.pdf",
     "README.md",
     "Lec2 摄像机标定.pdf",
-    "Lec2.摄像机标定/2.摄像机标定.pdf",
     "Lec2.摄像机标定/attachments",
     "1.摄像机几何.pdf",
     "Lec2.摄像机标定"
