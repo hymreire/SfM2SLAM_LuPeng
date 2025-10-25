@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "36e66e07946a0354",
+    "type": "split",
+    "children": [
+      {
+        "id": "9888c0e222815cd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65e4bc4c1037087b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lec2.摄像机标定/Lec2.摄像机标定.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Lec2.摄像机标定"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "35eeab2ddc3b8101",
+    "type": "split",
+    "children": [
+      {
+        "id": "f4789af8974e69b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "19022a91670b3a33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "994d345145810fa6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "c2f1761adb5159ab",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a83bb47deeca6b8a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd527c43ed86f662",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c21104a39bd1cecc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "README 的反向链接列表"
+            }
+          },
+          {
+            "id": "eb5fbd947abaae3f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "README 的出链列表"
+            }
+          },
+          {
+            "id": "3a4492ca440c72c1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "a50dc48966d033f0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "README 的大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "65e4bc4c1037087b",
+  "lastOpenFiles": [
+    "Lec2.摄像机标定/attachments/Pasted image 20251025182351.png",
+    "Lec2.摄像机标定/attachments/Pasted image 20251025182342.png",
+    "Lec2.摄像机标定/attachments/Pasted image 20251025182314.png",
+    "Lec2.摄像机标定/attachments/Pasted image 20251025182146.png",
+    "Lec2.摄像机标定/attachments/Pasted image 20251025182122.png",
+    "Lec2.摄像机标定/attachments/Pasted image 20251025182003.png",
+    "Lec2.摄像机标定/attachments/Pasted image 20251025181928.png",
+    "Lec2.摄像机标定/attachments/Pasted image 20251025173227.png",
+    "Lec2.摄像机标定/attachments/Pasted image 20251025173133.png",
+    "Lec2.摄像机标定/attachments/Pasted image 20251025172811.png",
+    "Lec2.摄像机标定/attachments/Pasted image 20251025172711.png",
+    "8.SLAM系统设计.pdf",
+    "Lec2.摄像机标定/Lec2.摄像机标定.md",
+    "屏幕截图 2025-10-25 172431.md",
+    "Imageljksf",
+    "5.双目立体视觉.pdf",
+    "7.SFM系统设计-change.pdf",
+    "README.md",
+    "Lec2 摄像机标定.pdf",
+    "Lec2.摄像机标定/2.摄像机标定.pdf",
+    "Lec2.摄像机标定/attachments",
+    "1.摄像机几何.pdf",
+    "Lec2.摄像机标定"
+  ]
+}
